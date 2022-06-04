@@ -31,12 +31,6 @@ class GroupSerializer(serializers.ModelSerializer):
         fields = ('id', 'title', 'slug', 'description')
 
 
-class UserSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = User
-        fields = ('username', 'id', 'password')
-
-
 class FollowSerializer(serializers.ModelSerializer):
     user = serializers.StringRelatedField(
         read_only=True,

@@ -99,7 +99,7 @@ POST /api/v1/follow/
 
 Request:
 {
-  "following": "string
+  "following": "string"
 }
 
 Response:

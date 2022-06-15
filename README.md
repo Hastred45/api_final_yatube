@@ -1,6 +1,6 @@
 # api_yatube
 
-Перед вами REST API для Yatube (https://github.com/Glaser1/yatube) - социальной сети для публикации личных дневников.
+Перед вами REST API для Yatube (https://github.com/Hastred45/hw05_final) - социальной сети для публикации личных дневников.
 
 
 ### Использованные технологии:
